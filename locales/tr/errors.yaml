@@ -1,0 +1,7 @@
+command_owner_only: Bu komut sahiplere özeldir.
+not_enough_permission: Bu komutu kullanabilmek için `%{permissions}` yetkilerine ihtiyacınız var
+command_guild_only: Bu komut yalnızca sunucularda kullanılabilir
+specify_language: Bir dil belirtin
+specify_valid_language: "Geçerli bir dil belirtin. Geçerli diller: `%{languages}`"
+command_disabled: Bu komut kullanıma kapalı
+wait_cooldown: Bu komutu kullanabilmek için %{cooldown} saniye beklemen lazım

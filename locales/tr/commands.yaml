@@ -1,0 +1,8 @@
+ping_command: ":ping_pong: Pong! %{ping}ms"
+language_updated: Diliniz başarıyla güncellendi
+help_embed_title: Bir komut hakkında daha fazla bilgi içim `yardım <komut_adı>` komutunu kullanın
+help_permissions: Gerekli İzinler
+help_name: Komut Adı
+help_aliases: Alternatifler
+help_not_found: "`%{command}` adında bir komut bulunamadı"
+not_found: Bulunamadı
