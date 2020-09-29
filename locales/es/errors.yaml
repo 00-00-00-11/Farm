@@ -1,0 +1,7 @@
+command_owner_only: Este comando es sólo para el dueño.
+not_enough_permission: Necesitas el `%{permissions}` para usar este comando.
+command_guild_only: Este comando es sólo para servidores.
+specify_language: Especifique un idioma
+specify_valid_language: "Especifique un idioma válido. Lenguajes validos: `%{languages}`"
+command_disabled: Este comando está desactivado.
+wait_cooldown: Tienes que esperar %{cooldown} segundos para usar este comando de nuevo

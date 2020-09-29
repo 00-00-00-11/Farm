@@ -1,0 +1,8 @@
+ping_command: ":ping_pong: Pong! %{ping}ms"
+language_updated: Su idioma fue actualizado con exito
+help_embed_title: Para más información sobre un comando, utiliza `help <command_name>`
+help_permissions: Permisos requeridos
+help_name: Nombre
+help_aliases: Alias
+help_not_found: "El comando `%{command}` no existe"
+not_found: No se ha encontrado

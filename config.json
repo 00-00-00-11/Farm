@@ -1,17 +1,16 @@
 {
-    "bot_token": "BOT_TOKEN",
+    "bot_token": "NzYwMjc1MTE3MTk1Nzg4Mjk4.X3JrYQ.kNrF43yZEu-e_zk36SlHoOrW1ow",
     "prefixes": [
-        "PREFFERED",
-        "PREFIXSES"
+        "f!",
+        "f"
     ],
     "owners": [
-        "OWNER_ID_1",
-        "OWNER_ID_2"
+        "745059196944252928"
     ],
-    "mongo_uri": "MONGODB_CONNECTION_URI",
+    "mongo_uri": "mongodb+srv://feli:feli@feli.llnxg.mongodb.net/farm?authSource=admin&replicaSet=atlas-owws76-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
     "game": {
-        "status": "GAME STATUS (online, idle, dnd, invisible)",
-        "type": "GAME TYPE (WATCHING, PLAYING, LISTENING, STREAMING)",
+        "status": "online",
+        "type": "WATCHING",
         "name": [
             "GAME NAME 1",
             "GAME NAME 2"
